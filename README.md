@@ -13,10 +13,6 @@
 </p>
 
 <br>
-<br>
-
-<h2 align="center">❓Info❓</h2>
-<br>
 
 <h4 align="center">🔭 I’m currently working on ...</h4>
 <h4 align="center">🌱 I’m currently learning ...</h4>
