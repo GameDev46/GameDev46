@@ -14,10 +14,10 @@
 
 <br>
 
-<h4 align="center">🔭 I’m currently working on ...</h4>
-<h4 align="center">🌱 I’m currently learning ...</h4>
-<h4 align="center">💬 Ask me about ...</h4>
-<h4 align="center">⚡Fun Fact: </h4>
+<p align="center">🔭 I’m currently working on ...</p>
+<p align="center">🌱 I’m currently learning ...</p>
+<p align="center">💬 Ask me about ...</p>
+<p align="center">⚡Fun Fact: </p>
 
 <br>
 
