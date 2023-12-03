@@ -7,7 +7,8 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamedev46&theme=dark" alt="gamedev46" />
-  &nbsp;
+  <br>
+  <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gamedev46&show_icons=true&theme=dark&locale=en" alt="gamedev46" />
 </p>
 
