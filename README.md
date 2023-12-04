@@ -110,10 +110,6 @@
   &nbsp;
   &nbsp;
   &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
   <a href="https://github.com/GameDev46/fourier_transform/stargazers">
     <img src="https://img.shields.io/github/stars/GameDev46/fourier_transform?style=for-the-badge&labelColor=1f1f22" alt="stars - fourier_transform">
   </a>
