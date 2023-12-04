@@ -36,8 +36,6 @@
 <h2 align="center">🔨Languages and Tools🔨</h2>
 <br>
 
-<br>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,blender,py,cs,github,replit,threejs,unity,visualstudio,vscode&perline=5">
 </p>
