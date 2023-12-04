@@ -104,7 +104,7 @@
 
   <!-- Fourier Transform -->
   <a href="https://github.com/GameDev46/fourier_transform">
-    <img src="https://img.shields.io/static/v1?label=GameDev46&message=neural_drones&color=orange&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fourier_transform">
+    <img src="https://img.shields.io/static/v1?label=GameDev46&message=fourier_transform&color=orange&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fourier_transform">
   </a>
   <!-- Stars, forks and issues -->
   &nbsp;
