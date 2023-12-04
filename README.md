@@ -39,7 +39,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,blender,py,cs,github,replit,threejs,unity,visualstudio,vscode">
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,blender,py,cs,github,replit,threejs,unity,visualstudio,vscode&perline=5">
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamedev46&show_icons=true&theme=dark&locale=en&layout=compact" alt="gamedev46" /></p>
