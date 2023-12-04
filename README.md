@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamedev46&label=Profile%20views&color=green&style=for-the-badge&labelColor=1f1f22" alt="gamedev46" /> </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=40&duration=3000&pause=1000&color=31A8FF&center=true&vCenter=true&random=false&width=1000&height=400&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=40&duration=3000&pause=1000&color=31A8FF&center=true&vCenter=true&random=false&width=1000&height=200&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 
 <h2 align="center">⚡Stats⚡</h2>
 <br>
@@ -37,10 +37,11 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,blender,py,cs,github,replit,threejs,unity,visualstudio,vscode&perline=5">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,cs,github,blender,replit,unity,visualstudio,vscode,threejs&perline=5">
+  &nbsp;
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gamedev46&show_icons=true&theme=dark&locale=en&layout=compact" alt="gamedev46" />
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamedev46&show_icons=true&theme=dark&locale=en&layout=compact" alt="gamedev46" /></p>
 
 <br>
 
