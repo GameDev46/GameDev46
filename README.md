@@ -14,10 +14,82 @@
 
 <br>
 
-<p align="center">🔭 I’m currently working on ...</p>
-<p align="center">🌱 I’m currently learning ...</p>
-<p align="center">💬 Ask me about ...</p>
-<p align="center">⚡Fun Fact: </p>
+<h2 align="center">🌟Some of my Favourite Repositories🌟</h2>
+<br>
+
+<p align="center">
+  <!-- Fractal raytracer -->
+  <a href="https://github.com/GameDev46/fractal_raytracer">
+    <img src="https://img.shields.io/static/v1?label=GameDev46&message=fractal_raytracer&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
+  </a>
+  <!-- Stars, forks and issues -->
+  <br>
+  <a href="https://github.com/GameDev46/fractal_raytracer/stargazers">
+    <img src="https://img.shields.io/github/stars/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="stars - fractal_raytracer">
+  </a>
+  <a href="https://github.com/GameDev46/fractal_raytracer/forks">
+      <img src="https://img.shields.io/github/forks/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="forks - fractal_raytracer">
+  </a>
+  <a href="https://github.com/GameDev46/fractal_raytracer/issues">
+      <img src="https://img.shields.io/github/issues/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22&color=blue"/>
+  </a>
+  <br>
+  <br>
+
+   <!-- Grass sim -->
+  <a href="https://github.com/GameDev46/grass_sim">
+    <img src="https://img.shields.io/static/v1?label=GameDev46&message=grass_sim&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - grass_sim">
+  </a>
+  <!-- Stars, forks and issues -->
+  <br>
+  <a href="https://github.com/GameDev46/grass_sim/stargazers">
+    <img src="https://img.shields.io/github/stars/GameDev46/grass_sim?style=for-the-badge&labelColor=1f1f22" alt="stars - grass_sim">
+  </a>
+  <a href="https://github.com/GameDev46/grass_sim/forks">
+      <img src="https://img.shields.io/github/forks/GameDev46/grass_sim?style=for-the-badge&labelColor=1f1f22" alt="forks - grass_sim">
+  </a>
+  <a href="https://github.com/GameDev46/grass_sim/issues">
+      <img src="https://img.shields.io/github/issues/GameDev46/grass_sim?style=for-the-badge&labelColor=1f1f22&color=blue"/>
+  </a>
+  <br>
+  <br>
+
+  <!-- Neural Drones -->
+  <a href="https://github.com/GameDev46/neural_drones">
+    <img src="https://img.shields.io/static/v1?label=GameDev46&message=neural_drones&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - neural_drones">
+  </a>
+  <!-- Stars, forks and issues -->
+  <br>
+  <a href="https://github.com/GameDev46/neural_drones/stargazers">
+    <img src="https://img.shields.io/github/stars/GameDev46/neural_drones?style=for-the-badge&labelColor=1f1f22" alt="stars - neural_drones">
+  </a>
+  <a href="https://github.com/GameDev46/neural_drones/forks">
+      <img src="https://img.shields.io/github/forks/GameDev46/neural_drones?style=for-the-badge&labelColor=1f1f22" alt="forks - neural_drones">
+  </a>
+  <a href="https://github.com/GameDev46/neural_drones/issues">
+      <img src="https://img.shields.io/github/issues/GameDev46/neural_drones?style=for-the-badge&labelColor=1f1f22&color=blue"/>
+  </a>
+  <br>
+  <br>
+
+  <!-- Fourier Transform -->
+  <a href="https://github.com/GameDev46/fourier_transform">
+    <img src="https://img.shields.io/static/v1?label=GameDev46&message=neural_drones&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fourier_transform">
+  </a>
+  <!-- Stars, forks and issues -->
+  <br>
+  <a href="https://github.com/GameDev46/fourier_transform/stargazers">
+    <img src="https://img.shields.io/github/stars/GameDev46/fourier_transform?style=for-the-badge&labelColor=1f1f22" alt="stars - fourier_transform">
+  </a>
+  <a href="https://github.com/GameDev46/fourier_transform/forks">
+      <img src="https://img.shields.io/github/forks/GameDev46/fourier_transform?style=for-the-badge&labelColor=1f1f22" alt="forks - fourier_transform">
+  </a>
+  <a href="https://github.com/GameDev46/fourier_transform/issues">
+      <img src="https://img.shields.io/github/issues/GameDev46/fourier_transform?style=for-the-badge&labelColor=1f1f22&color=blue"/>
+  </a>
+  <br>
+  <br>
+</p>
 
 <br>
 
