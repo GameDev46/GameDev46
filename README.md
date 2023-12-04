@@ -49,7 +49,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gamedev46&theme=onedark&column=4" alt="gamedev46" />
+    <img src="https://github-profile-trophy.vercel.app/?username=gamedev46&theme=nord&column=4&margin-w=5" alt="gamedev46" />
   </a>
 </p>
 
