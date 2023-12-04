@@ -47,7 +47,7 @@
 <h2 align="center">🏆Github Trophies🏆</h2>
 <br>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=gamedev46&theme=nord&column=4&margin-w=5&margin-h=5" alt="gamedev46" />
   </a>
