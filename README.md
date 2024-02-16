@@ -26,6 +26,29 @@
       <th>Forks</th>
       <th>Issues</th>
     </tr>
+     <!-- Pixel Putt -->
+    <tr>
+      <td>
+        <a href="https://github.com/GameDev46/pixel_putt">
+          <img src="https://img.shields.io/static/v1?label=pixel_putt&message=%20&color=1f1f22&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - pixel_putt">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/GameDev46/pixel_putt/stargazers">
+          <img src="https://img.shields.io/github/stars/GameDev46/pixel_putt?style=for-the-badge&labelColor=1f1f22" alt="stars - pixel_putt">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/GameDev46/pixel_putt/forks">
+          <img src="https://img.shields.io/github/forks/GameDev46/pixel_putt?style=for-the-badge&labelColor=1f1f22" alt="forks - pixel_putt">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/GameDev46/pixel_putt/issues">
+            <img src="https://img.shields.io/github/issues/GameDev46/pixel_putt?style=for-the-badge&labelColor=1f1f22&color=red"/>
+        </a>
+      </td>
+    </tr>
      <!-- Fractal raytracer -->
     <tr>
       <td>
@@ -128,25 +151,6 @@
 
 <p align="center">
 
-  <table align="center">
-    <th>
-      <a href="https://twitter.com/gamedev46" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamedev46" height="30" width="40" />
-      </a>
-    </th>
-    <th> 
-      <a href="https://instagram.com/oliver_pearce47" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oliver_pearce47" height="30" width="40" />
-      </a>
-    </th>
-    <th> 
-      <a href="https://youtube.com/@gamedev46" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamedev46" height="30" width="40" />
-      </a>
-    </th>
-  </table>
-</p>
-
 <p align="center">
   
   <table align="center">
@@ -179,27 +183,15 @@
 </p>
 
 <br>
-<br>
 
 <h2 align="center">🔨Languages and Tools🔨</h2>
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,cs,github,blender,replit,unity,visualstudio,vscode,threejs&perline=5">
+  <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,nodejs,py,github,blender,replit,unity,visualstudio,vscode,threejs&perline=5">
   &nbsp;
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gamedev46&show_icons=true&theme=dark&locale=en&layout=compact" alt="gamedev46" />
-</p>
-
-<br>
-
-<h2 align="center">🏆Github Trophies🏆</h2>
-<br>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gamedev46&theme=nord&column=4&margin-w=5&margin-h=5" alt="gamedev46" />
-  </a>
 </p>
 
 
