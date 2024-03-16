@@ -121,23 +121,23 @@
     <!-- Fourier Transform -->
     <tr>
       <td>
-        <a href="https://github.com/GameDev46/block_battles">
-          <img src="https://img.shields.io/static/v1?label=block_battles&message=%20&color=1f1f22&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - block_battles">
+        <a href="https://github.com/GameDev46/physics_engine">
+          <img src="https://img.shields.io/static/v1?label=physics_engine&message=%20&color=1f1f22&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - physics_engine">
         </a>
       </td>
       <td>
-        <a href="https://github.com/GameDev46/block_battles/stargazers">
-          <img src="https://img.shields.io/github/stars/GameDev46/block_battles?style=for-the-badge&labelColor=1f1f22" alt="stars - block_battles">
+        <a href="https://github.com/GameDev46/physics_engine/stargazers">
+          <img src="https://img.shields.io/github/stars/GameDev46/physics_engine?style=for-the-badge&labelColor=1f1f22" alt="stars - physics_engine">
         </a>
       </td>
       <td>
-        <a href="https://github.com/GameDev46/block_battles/forks">
-          <img src="https://img.shields.io/github/forks/GameDev46/block_battles?style=for-the-badge&labelColor=1f1f22" alt="forks - block_battles">
+        <a href="https://github.com/GameDev46/physics_engine/forks">
+          <img src="https://img.shields.io/github/forks/GameDev46/physics_engine?style=for-the-badge&labelColor=1f1f22" alt="forks - physics_engine">
       </a>
       </td>
       <td>
-        <a href="https://github.com/GameDev46/block_battles/issues">
-          <img src="https://img.shields.io/github/issues/GameDev46/block_battles?style=for-the-badge&labelColor=1f1f22&color=red"/>
+        <a href="https://github.com/GameDev46/physics_engine/issues">
+          <img src="https://img.shields.io/github/issues/GameDev46/physics_engine?style=for-the-badge&labelColor=1f1f22&color=red"/>
       </a>
       </td>
     </tr>
