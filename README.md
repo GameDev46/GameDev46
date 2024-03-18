@@ -160,11 +160,6 @@
       </a>
     </th>
     <th> 
-      <a href="https://instagram.com/oliver_pearce47">
-          <img src="https://img.shields.io/static/v1?label=Instagram&message=%20&color=ee44aa&logo=instagram&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
-      </a>
-    </th>
-    <th> 
       <a href="https://youtube.com/@gamedev46">
           <img src="https://img.shields.io/static/v1?label=Youtube&message=%20&color=red&logo=youtube&style=for-the-badge&labelColor=1f1f22&logoColor=red" alt="GameDev46 - fractal_raytracer">
       </a>
