@@ -1,4 +1,46 @@
-<h2 align="center">⚡Stats</h2>
+<p align="center">
+
+<p align="center">
+  
+  <table align="center">
+    <th>    
+      <a href="https://twitter.com/gamedev46">
+          <img src="https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=twitter&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
+      </a>
+    </th>
+    <th> 
+      <a href="https://youtube.com/@gamedev46">
+          <img src="https://img.shields.io/static/v1?label=Youtube&message=%20&color=red&logo=youtube&style=for-the-badge&labelColor=1f1f22&logoColor=red" alt="GameDev46 - fractal_raytracer">
+      </a>
+    </th>
+    <th> 
+      <a href="https://www.reddit.com/user/TennisImportant9406">
+          <img src="https://img.shields.io/static/v1?label=Reddit&message=%20&color=orange&logo=reddit&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
+      </a>
+    </th>
+    <th> 
+      <a href="https://replit.com/@GameDev46">
+          <img src="https://img.shields.io/static/v1?label=Replit&message=%20&color=orange&logo=replit&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
+      </a>
+    </th>
+  </table>
+</p>
+
+<br>
+
+<h2 align="center">🔨Languages and Tools🔨</h2>
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,nodejs,py,r,lua,robloxstudio,github,blender,replit,unity,visualstudio,vscode,threejs&perline=6">
+  &nbsp;
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gamedev46&show_icons=true&theme=dark&locale=en&layout=compact" alt="gamedev46" />
+</p>
+
+<br>
+
+<h2 align="center">⚡Stats⚡</h2>
 <br>
 
 <p align="center">
@@ -10,7 +52,7 @@
 
 <br>
 
-<h2 align="center">👍Personal Favourites</h2>
+<h2 align="center">👍Personal Favourites👍</h2>
 <br>
 
 <p align="center">
@@ -138,51 +180,6 @@
       </td>
     </tr>
   </table>
-</p>
-
-<br>
-
-<h2 align="center">📱Social Links</h2>
-<br>
-
-<p align="center">
-
-<p align="center">
-  
-  <table align="center">
-    <th>    
-      <a href="https://twitter.com/gamedev46">
-          <img src="https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=twitter&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
-      </a>
-    </th>
-    <th> 
-      <a href="https://youtube.com/@gamedev46">
-          <img src="https://img.shields.io/static/v1?label=Youtube&message=%20&color=red&logo=youtube&style=for-the-badge&labelColor=1f1f22&logoColor=red" alt="GameDev46 - fractal_raytracer">
-      </a>
-    </th>
-    <th> 
-      <a href="https://www.reddit.com/user/TennisImportant9406">
-          <img src="https://img.shields.io/static/v1?label=Reddit&message=%20&color=orange&logo=reddit&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
-      </a>
-    </th>
-    <th> 
-      <a href="https://replit.com/@GameDev46">
-          <img src="https://img.shields.io/static/v1?label=Replit&message=%20&color=orange&logo=replit&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
-      </a>
-    </th>
-  </table>
-</p>
-
-<br>
-
-<h2 align="center">🔨Languages and Tools</h2>
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,nodejs,py,r,lua,robloxstudio,github,blender,replit,unity,visualstudio,vscode,threejs&perline=6">
-  &nbsp;
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gamedev46&show_icons=true&theme=dark&locale=en&layout=compact" alt="gamedev46" />
 </p>
 
 
