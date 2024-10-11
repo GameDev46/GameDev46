@@ -1,4 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamedev46&label=Profile%20views&color=green&style=for-the-badge&labelColor=1f1f22" alt="gamedev46" /> </p>
+<h2 align="center">⚡Stats</h2>
+<br>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamedev46&theme=dark" alt="gamedev46" />
@@ -9,7 +10,7 @@
 
 <br>
 
-<h2 align="center">🌟My Favourite Repositories🌟</h2>
+<h2 align="center">👍Personal Favourites</h2>
 <br>
 
 <p align="center">
@@ -141,7 +142,7 @@
 
 <br>
 
-<h2 align="center">📱Social Links📱</h2>
+<h2 align="center">📱Social Links</h2>
 <br>
 
 <p align="center">
@@ -174,7 +175,7 @@
 
 <br>
 
-<h2 align="center">🔨Languages and Tools🔨</h2>
+<h2 align="center">🔨Languages and Tools</h2>
 <br>
 
 <p align="center">
