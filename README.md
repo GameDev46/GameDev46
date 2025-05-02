@@ -3,11 +3,6 @@
 <p align="center">
   
   <table align="center">
-    <th>    
-      <a href="https://twitter.com/gamedev46">
-          <img src="https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=twitter&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
-      </a>
-    </th>
     <th> 
       <a href="https://youtube.com/@gamedev46">
           <img src="https://img.shields.io/static/v1?label=Youtube&message=%20&color=red&logo=youtube&style=for-the-badge&labelColor=1f1f22&logoColor=red" alt="GameDev46 - fractal_raytracer">
