@@ -18,11 +18,6 @@
           <img src="https://img.shields.io/static/v1?label=Reddit&message=%20&color=orange&logo=reddit&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
       </a>
     </th>
-    <th> 
-      <a href="https://replit.com/@GameDev46">
-          <img src="https://img.shields.io/static/v1?label=Replit&message=%20&color=orange&logo=replit&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
-      </a>
-    </th>
   </table>
 </p>
 
