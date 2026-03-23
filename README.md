@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,nodejs,py,r,lua,robloxstudio,github,blender,replit,unity,visualstudio,vscode,threejs&perline=6">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,r,lua,html,css,js,nodejs,robloxstudio,blender,unity,visualstudio,vscode,threejs&perline=6">
 </p>
 
 <br>
@@ -39,26 +39,26 @@
       <th>Forks</th>
       <th>Issues</th>
     </tr>
-     <!-- Pixel Putt -->
+     <!-- Timber Hearth Forest -->
     <tr>
       <td>
-        <a href="https://github.com/GameDev46/pixel_putt">
-          <img src="https://img.shields.io/static/v1?label=pixel_putt&message=%20&color=1f1f22&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - pixel_putt">
+        <a href="https://github.com/GameDev46/TimberHearthForest">
+          <img src="https://img.shields.io/static/v1?label=Timber%20Hearth%20Forest&message=%20&color=1f1f22&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - TimberHearthForest">
         </a>
       </td>
       <td>
-        <a href="https://github.com/GameDev46/pixel_putt/stargazers">
-          <img src="https://img.shields.io/github/stars/GameDev46/pixel_putt?style=for-the-badge&labelColor=1f1f22" alt="stars - pixel_putt">
+        <a href="https://github.com/GameDev46/TimberHearthForest/stargazers">
+          <img src="https://img.shields.io/github/stars/GameDev46/TimberHearthForest?style=for-the-badge&labelColor=1f1f22" alt="stars - TimberHearthForest">
         </a>
       </td>
       <td>
-        <a href="https://github.com/GameDev46/pixel_putt/forks">
-          <img src="https://img.shields.io/github/forks/GameDev46/pixel_putt?style=for-the-badge&labelColor=1f1f22" alt="forks - pixel_putt">
+        <a href="https://github.com/GameDev46/TimberHearthForest/forks">
+          <img src="https://img.shields.io/github/forks/GameDev46/TimberHearthForest?style=for-the-badge&labelColor=1f1f22" alt="forks - TimberHearthForest">
         </a>
       </td>
       <td>
-        <a href="https://github.com/GameDev46/pixel_putt/issues">
-            <img src="https://img.shields.io/github/issues/GameDev46/pixel_putt?style=for-the-badge&labelColor=1f1f22&color=red"/>
+        <a href="https://github.com/GameDev46/TimberHearthForest/issues">
+            <img src="https://img.shields.io/github/issues/GameDev46/TimberHearthForest?style=for-the-badge&labelColor=1f1f22&color=red"/>
         </a>
       </td>
     </tr>
@@ -66,7 +66,7 @@
     <tr>
       <td>
         <a href="https://github.com/GameDev46/fractal_raytracer">
-          <img src="https://img.shields.io/static/v1?label=fractal_raytracer&message=%20&color=1f1f22&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
+          <img src="https://img.shields.io/static/v1?label=fractal%20raytracer&message=%20&color=1f1f22&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
         </a>
       </td>
       <td>
@@ -89,7 +89,7 @@
     <tr>
       <td>
         <a href="https://github.com/GameDev46/grass_sim">
-          <img src="https://img.shields.io/static/v1?label=grass_sim&message=%20&color=1f1f22&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - grass_sim">
+          <img src="https://img.shields.io/static/v1?label=grass%20sim&message=%20&color=1f1f22&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - grass_sim">
         </a>
       </td>
       <td>
@@ -112,7 +112,7 @@
     <tr>
       <td>
         <a href="https://github.com/GameDev46/neural_drones">
-          <img src="https://img.shields.io/static/v1?label=neural_drones&message=%20&color=1f1f22&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - neural_drones">
+          <img src="https://img.shields.io/static/v1?label=neural%20drones&message=%20&color=1f1f22&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - neural_drones">
         </a>
       </td>
       <td>
@@ -131,11 +131,11 @@
       </a>
       </td>
     </tr>
-    <!-- Fourier Transform -->
+    <!-- Physics Engine -->
     <tr>
       <td>
         <a href="https://github.com/GameDev46/physics_engine">
-          <img src="https://img.shields.io/static/v1?label=physics_engine&message=%20&color=1f1f22&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - physics_engine">
+          <img src="https://img.shields.io/static/v1?label=physics%20engine&message=%20&color=1f1f22&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - physics_engine">
         </a>
       </td>
       <td>
