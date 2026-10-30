@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <th>
-         <img width="1920" alt="A render of the mandlebrot set" src="Images/mandlebrotSet.png" />
+         <img width="1920" alt="A render of the mandlebrot set" src="Images/fractal.png" />
       </th>
       <th>
         <img width="1920" alt="A demonstration of a simple spring bridge in a physics engine" src="Images/physicsEngineBridge.png" />
