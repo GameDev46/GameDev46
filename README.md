@@ -1,6 +1,6 @@
 <p align="center">
 
-  <p align="center">
+  <!--<p align="center">
     <table align="center">
       <th>
         <a href="https://youtube.com/@gamedev46">
@@ -15,7 +15,7 @@
     </table>
   </p>
 
-  <hr>
+  <hr>-->
 
   <table align="center">
     <th>
