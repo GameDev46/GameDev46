@@ -13,24 +13,20 @@
         </a>
       </th>
     </table>
-
-  <p align="center">
-      <img alt="Top Languages"  height="210px" width="35%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GameDev46&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117" />
-      <!--<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,r,lua,html,css,js,nodejs,robloxstudio,blender,unity,visualstudio,vscode,threejs&perline=5">-->
-    </p>
   </p>
 
   <hr>
 
   <table align="center">
     <th>
-       
+       <img width="1920" alt="Timber Hearth with Trees on its surface with clouds above" src="Images/cloudyRadioStation.png" />
     </th>
     <th>
-      
+      <img alt="Top Languages" width="1700" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GameDev46&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117" />
+      <!--<img width="1920" alt="A photo-realistic path-traced image of the moon" src="Images/fractal.png" />-->
     </th>
     <th>
-      
+      <img width="1920" alt="A distorted raymarched Menger Sponge Fractal" src="Images/moon.png" />
     </th>
   </table>
 
