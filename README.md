@@ -45,10 +45,10 @@
          <img width="1920" alt="A render of the mandlebrot set" src="Images/mandlebrotSet.png" />
       </th>
       <th>
-        <img width="1920" alt="An image from the game Outer Wilds where the ship is sat on a cloudy day on the launch pad" src="Images/shipOnNewLaunchPad.png" />
+        <img width="1920" alt="A demonstration of a simple spring bridge in a physics engine" src="Images/physicsEngineBridge.png" />
       </th>
       <th>
-        <img width="1920" alt="A demonstration of a simple spring bridge in a physics engine" src="Images/physicsEngineBridge.png" />
+        <img width="1920" alt="An image from the game Outer Wilds where the ship is sat on a cloudy day on the launch pad" src="Images/shipOnNewLaunchPad.png" />
       </th>
     </tr>
   </table>
