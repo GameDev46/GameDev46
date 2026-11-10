@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <th>
-         <img width="1920" alt="A render of the mandlebrot set" src="Images/fractal.png" />
+         <a href="https://github.com/GameDev46/Phase_Portrait_Visualiser" target="_blank"><img width="1920" alt="A phase portrait of a matrix with complex eigenvalues showing a spiral out from the origin" src="Images/spiralOut.png" /></a>
       </th>
       <th>
         <a href="https://github.com/GameDev46/Physics_Engine" target="_blank"><img width="1920" alt="A demonstration of a simple spring bridge in a physics engine" src="Images/physicsEngineBridge.png" /></a>
